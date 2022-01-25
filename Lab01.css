@@ -1,0 +1,59 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #C7D5E0;
+    color: white;
+    margin: 0;
+}
+header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #F74843;
+    padding: 1.5em;
+    border-bottom: solid #0C0F12 2px;
+}
+footer {
+    background-color: #F74843;
+    font-size: .60em;
+    font-style: italic;
+    text-align: center;
+    padding-bottom: 1em;
+    border-top: solid 2px #0C0F12;
+}
+h1 {
+    padding-left: 90px;
+    font-size: 2em;
+}
+h2 {
+    text-transform: uppercase;
+    border-bottom: solid #0C0F12 2px;
+}
+table {
+    border: solid #0C0F12 2px;
+}
+.game {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.wrapper {
+    background-color: #2A475E;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 100px;
+    margin-left: 100px;
+    border-right: solid #0C0F12 2px;
+    border-left: solid #0C0F12 2px;
+}
+#valvelogo {
+    width: 10%;
+    float: left;
+}
+#homepageimage {
+    background-image: url(images/valveoffice.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 200px;
+}
